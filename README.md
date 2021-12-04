@@ -1,2 +1,2 @@
-# virusshare-zpi
+# virusshare-torrents
 Torrents from https://virusshare.com/torrents
